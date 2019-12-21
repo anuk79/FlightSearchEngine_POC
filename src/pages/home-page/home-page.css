@@ -1,0 +1,25 @@
+.subheader {
+  margin: 20px 10px;
+}
+
+.content, .right-content {
+  border: 1px solid black;
+}
+
+.right-content {
+  margin: 20px 0;
+  border-right: none;
+}
+
+.alert {
+  width: 100%;
+  margin: 20px;
+}
+
+.alert-warning {
+  margin: 20px 0;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+}

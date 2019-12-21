@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FlightSearchEngine_POC/static/css/main.3d3216e0.chunk.css",
+    "main.js": "/FlightSearchEngine_POC/static/js/main.b2789a71.chunk.js",
+    "main.js.map": "/FlightSearchEngine_POC/static/js/main.b2789a71.chunk.js.map",
+    "runtime-main.js": "/FlightSearchEngine_POC/static/js/runtime-main.846e352e.js",
+    "runtime-main.js.map": "/FlightSearchEngine_POC/static/js/runtime-main.846e352e.js.map",
+    "static/js/2.d37f891d.chunk.js": "/FlightSearchEngine_POC/static/js/2.d37f891d.chunk.js",
+    "static/js/2.d37f891d.chunk.js.map": "/FlightSearchEngine_POC/static/js/2.d37f891d.chunk.js.map",
+    "index.html": "/FlightSearchEngine_POC/index.html",
+    "precache-manifest.a4b5d91db64a2c06a8f8e7265f64aaed.js": "/FlightSearchEngine_POC/precache-manifest.a4b5d91db64a2c06a8f8e7265f64aaed.js",
+    "service-worker.js": "/FlightSearchEngine_POC/service-worker.js",
+    "static/css/main.3d3216e0.chunk.css.map": "/FlightSearchEngine_POC/static/css/main.3d3216e0.chunk.css.map",
+    "static/js/2.d37f891d.chunk.js.LICENSE": "/FlightSearchEngine_POC/static/js/2.d37f891d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.846e352e.js",
+    "static/js/2.d37f891d.chunk.js",
+    "static/css/main.3d3216e0.chunk.css",
+    "static/js/main.b2789a71.chunk.js"
+  ]
+}
